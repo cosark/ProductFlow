@@ -280,6 +280,10 @@ docker compose down
 docker compose down -v
 ```
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/ProductFlow/)
+
 ## 本地开发路径
 
 修改代码并使用热重载开发时，使用本地开发路径。
